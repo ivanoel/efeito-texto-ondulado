@@ -14,7 +14,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #222;
+    background: rgb(65, 21, 21);
 }
 section .text {
     position: relative;
